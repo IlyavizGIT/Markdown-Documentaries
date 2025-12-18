@@ -6,3 +6,4 @@ No seriously, i credited everything in the newest one. I didn't skid.
 The 'olddocumentaries' folder is containing __OLD__ documentaries of _MarkDown_ system.
 ## /!\ CRINGE WARNING /!\
 No seriously, they're bad and made in a quick hand. (I'm a dumbass ;-;)
+Except the newest one, it's better than old ones. <3
