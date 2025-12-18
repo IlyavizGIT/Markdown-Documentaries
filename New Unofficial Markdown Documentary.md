@@ -45,7 +45,7 @@ Links are used to show links for more infomation for example.
 ## Tables
 The table is about the translation of numbers in 3 different languages, English, Spanish and Russian.
 | English | Spanish | Russian |
-| :--- | :--: | ---: |
+| :--: | :--: | :--: |
 | One | Uno | Один |
 | Two | Dos | Два |
 | Three | Tres | Три |
@@ -163,4 +163,4 @@ You! - For reading this new unofficial documentary. <3
 ---
 ### Made by ThePhantom35, powered by MarkdownViz.
 
-#### Have a nice day <3
+#### Have a nice day! <3
