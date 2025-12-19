@@ -2,8 +2,11 @@
 ### By ThePhantom35
 
 ---
-# DISCLAMER!
+# DISCLAIMER!
 This is an __UPDATED__, __UNOFFICIAL__ documentary of __Markdown__, created for _beginners_, some things might ___change___, it's all based by my ___knowledge___ about _MarkDown_ system. ```(With some help by DeepSeek)```
+
+UPD1: Changed text allign on a table and fixed grammar errors.
+UPD2: More grammar fixes and added examples for 'Chapter IV: Escaping Characters, Footnotes and Extended Syntax (Math Formulas)'
 
 
 # Chapter I: Text Formatting
@@ -26,7 +29,7 @@ ___bold-italic___ or ***bold-italic***
 ```
 ## Code blocks
 ```
-Code blocks should have "```" at the start and at the end of a word, useful for scripts.
+`code` or ```code```
 ```
 ## Blockquote
 ```
@@ -34,13 +37,13 @@ Code blocks should have "```" at the start and at the end of a word, useful for 
 ```
 ---
 # Chapter II: Tables, Images and Links
-Tables are used to make __statisitcs__ on whatever, into the page.
+Tables are used to make __statistics__ on whatever, into the page.
 
 Images are used to __PIN__ the image onto the webpage.
 
-Links are used to show links for more infomation for example.
+Links are used to show links for more information for example.
 
-`Note: This doesn't work in Ravbug's MarkdownViz, because apperently it doesn't support tables, strike-through text formatting, images, blockquotes and more. It does lack a LOT of functions.`
+`Note: This doesn't work in Ravbug's MarkdownViz, because apparently it doesn't support tables, strike-through text formatting, images, blockquotes and more. It does lack a LOT of functions.`
 
 ## Tables
 The table is about the translation of numbers in 3 different languages, English, Spanish and Russian.
@@ -88,7 +91,7 @@ I __COULD__ make this in the Chapter I, but i think i felt that i should do this
 - Item2
   - Subitem1
   - Subitem2
-* AsteriskItem ```(You can also do it with an asteristk instead of a dash.)```
+* AsteriskItem ```(You can also do it with an asterisk instead of a dash.)```
 + PlusItem ```(Also with plus too! ^w^)```
 
 ## Ordered List
@@ -113,8 +116,13 @@ Escaping Characters
 
 ```
 \*This is not an italic text.\*
+*This is an italic text*
+
 \#This is not a heading
+# This is a heading
+
 \[This is not a link\]
+[This is a link]
 ```
 
 Footnote
@@ -163,4 +171,4 @@ You! - For reading this new unofficial documentary. <3
 ---
 ### Made by ThePhantom35, powered by MarkdownViz.
 
-#### Have a nice day! <3
+#### Have a nice day <3
